@@ -66,7 +66,7 @@ Example: The `*` operator multiplies two values: `x * y`.
 7. Parenthesized subexpressions calculate first, e.g., `15 - 1 * (5 * (1 + 2)) = 0`.
 8. The exponentiation operator `**` uses right associativity:
 Example: `2 ** 2 ** 3 = 2 ** (2 ** 3) = 256`
-- [Operators - data manipulation tools] (./Operators-data-manipulation-tools.py)
+- [Operators - data manipulation tools](./Operators-data-manipulation-tools.py)
 
 ---
 
