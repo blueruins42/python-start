@@ -1,7 +1,14 @@
-# use newline,escape character, quote and apostrophe
-print('"I\'m"\n\"\"learning\"\"\n\"\"\"Python\"\"\"')
-# ten to the power of
+# Lab: Python Literals - Strings
+# Practice with escape characters, quotes, scientific notation, and boolean comparisons
+
+# Newline, escape characters, quotes and apostrophes
+print('"I'm"
+""learning""
+"""Python"""')
+
+# Scientific notation: ten to the power of
 print("8E-22")
-# Boolean values
-print(True>False)
-print(False>True)
+
+# Boolean comparisons
+print(True > False)
+print(False > True)
