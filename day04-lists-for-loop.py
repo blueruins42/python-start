@@ -1,30 +1,28 @@
-# Day4：list(列表) + for 循环 - while 循环基础
-# 目标：学会添加列表、添加元素、遍历列表、用循环收集用户输入
+# Day 4: Lists + for Loop — while Loop Basics
+# Goal: Learn to create lists, add elements, iterate, and collect user input with loops
 
-print("请输入几条内容，最后输入 '结束' 停止。")
+print("Enter items one by one. Type 'done' to stop.")
 
-# 创建一个空列表
+# Create an empty list
 items = []
 
-# 用 while True 实现“无限输入直到退出”
+# Use while True for "infinite input until exit"
 while True:
-    user_input = input("请输入一条内容（输入 '结束' 退出）：").strip()
-    
-    if user_input.lower() == "结束":
-        break  # 退出循环
-    
-    if user_input:  # 避免添加空字符串
-        items.append(user_input)
-        print(f"已添加：{user_input}")
-    else:
-        print("输入为空，请重新输入。")
+    user_input = input("Enter an item (type 'done' to exit): ").strip()
 
-# 遍历列表并输出（带序号）
-print("\n你输入的内容总结：")
+    if user_input.lower() == "done":
+        break  # Exit the loop
+
+    if user_input:  # Avoid adding empty strings
+        items.append(user_input)
+        print(f"Added: {user_input}")
+    else:
+        print("Input is empty, please try again.")
+
+# Iterate over the list and print with index
+print("\nYour entries:")
 if items:
     for index, value in enumerate(items, start=1):
-        print(f"{index}. {value}")
-    
-    print(f"\n总共 {len(items)} 条。")
+        print(f"  {index}. {value}")
 else:
-    print("没有输入任何内容。")
+    print("  (No entries)")
