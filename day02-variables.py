@@ -1,23 +1,25 @@
-# Day 2: 变量 + f-string
-my_name = "shooting"  #加引号作为string
-my_age = 35  #不加引号，作为integer
-message = "开始尝试写第一个python语法。"
+# Day 2: Variables + f-strings
+my_name = "shooting"  # String — must be quoted
+my_age = 35           # Integer — no quotes
+message = "I'm about to write my first Python syntax."
 
-print(f"我叫{my_name}，刚过完 {my_age} 岁生日，{message}")
+print(f"My name is {my_name}, I just turned {my_age}, and {message}")
 
-# 定义现在的年份（数字，不加引号）
+# Define the current year (number, no quotes)
 current_year = 2026
 
-# 计算距离 100 岁还有多少年
+# Calculate how many years until I turn 100
 years_to_wait = 100 - my_age
 
-# 计算那一年的年份
+# Calculate the year I'll turn 100
 year_of_100 = current_year + years_to_wait
 
-# 把结果印出来
-print("当我 100 岁的时候，那是：")
+# Print the result
+print("When I turn 100, it will be:")
 print(year_of_100)
-# 另一种用逗号分隔的输出方法
-print("当我 100 岁的时候，那是：",year_of_100)
-# 另一种用f_string合体的输出方法
-print(f"当我 100 岁的时候，那是：{year_of_100}")
+
+# Alternative: comma-separated output
+print("When I turn 100, it will be:", year_of_100)
+
+# Alternative: f-string formatting
+print(f"When I turn 100, it will be: {year_of_100}")
