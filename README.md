@@ -1,31 +1,63 @@
 # python-start
-Reframe &amp; Create
-# 我的编程学习记录 2026
-[Day 1](Day01-say-hello.py) - 利用print()函数
-# 我的初心
-作为一名文科生，不强求在编程领域能有多高阶，但求未来能在AI领域的学识海洋中掌握必备的入门工具。
-## 学习进度
--**Day 1**（2026-02-17）
-  - 创建仓库python-start
-  - 第一个python文件用print()输出'Hello GitHub，我是shooting'
-  - 更新README，写下初心
-  - 心情：踏出第一步。
-  - 链接：[day 1](./day01-say-hello.py)
-## 目标清单
- - 短期：学会简单爬虫，为自己搜集更多的信息源  
- - 中期：做网页版聊天机器人，能互动  
- - 长期：本地部署开源大模型（像 GLM-5），fine-tune 出本地版的chatbot
-## 学习进度
--**Day 2**(2026-02-18)
- - 第二个python文件，学习变量赋值，以及f-string(格式化字符串字面量),字符串插值方式
- - 了解了python语法中关于单引号和双引号使用习惯问题，以后统一改为双引号
- - 更新README,写下第二天的学习进度
- - 链接：[day 2](./day02-variables.py)
--**Day 3**(2026-02-19)
- - 第三个python文件，学习input()获取输入，用if函数判断不同回应
- - 心情：35岁生日，又迈进了一点点，给自己最好的回报
- - 链接：[day 3](./day03-input-if-esle.py)
-- **Day 4**(2026-02-21)
- - 第四个python文件，学习列表循环与处理多条数据、重复执行
- - 链接：[day 4](./day04-lists-for-loop.py)
- - 心得：当多个知识点结合在一起时，会顾此失彼，python是讲结构的语言，只有理解结构，才能理解意义
+
+Reframe & Create
+
+## My Python Learning Journey — 2026
+
+As a humanities student, I'm not aiming to become a hardcore programmer. My goal is to build the essential foundational skills needed to navigate the AI era. This repository documents my daily progress in learning Python.
+
+---
+
+## Learning Progress
+
+### Day 1 (2026-02-17)
+- Created the `python-start` repository
+- Wrote my first Python file using `print()` to output a greeting
+- Updated README with initial goals
+- **Mood:** Took the first step.
+- [Day 1 Code](./day01-say-hello.py)
+
+### Day 2 (2026-02-18)
+- Learned variable assignment and f-strings (formatted string literals)
+- Understood Python's convention of using double quotes
+- [Day 2 Code](./day02-variables.py)
+
+### Day 3 (2026-02-19)
+- Learned `input()` for user input and `if / elif / else` for conditional branching
+- **Note:** Celebrated my 35th birthday — a small step forward as a gift to myself
+- [Day 3 Code](./day03-input-if-else.py)
+
+### Day 4 (2026-02-21)
+- Learned lists, `for` loops, and `while` loops for handling multiple data entries
+- **Insight:** When multiple concepts combine, it's easy to lose track. Python is a language of structure — only by understanding the structure can you understand the meaning.
+- [Day 4 Code](./day04-lists-for-loop.py)
+
+### Day 5 (2026-02-25)
+- Successfully pushed code from local VS Code to GitHub — milestone achieved!
+- Built a random vocabulary picker using `random.choice()`
+- [Day 5 Code](./day05-random-words-player.py)
+
+### Lab Work
+- [Python Literals — Strings](./LAB-Python-literals-strings.py): Practice with escape characters, quotes, scientific notation, and boolean comparisons
+
+---
+
+## Goals
+
+| Timeframe | Goal |
+|-----------|------|
+| **Short-term** | Learn basic web scraping to collect information sources |
+| **Mid-term** | Build a web-based chatbot with interactive capabilities |
+| **Long-term** | Deploy an open-source LLM locally (e.g., GLM-5) and fine-tune a personal chatbot |
+
+---
+
+## Tech Stack
+
+- **Language:** Python 3
+- **Editor:** VS Code (local push to GitHub)
+- **Platform:** GitHub
+
+---
+
+*This repository is a living document. Updated as I learn.*
