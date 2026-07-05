@@ -37,8 +37,36 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Built a random vocabulary picker using `random.choice()`
 - [Day 5 Code](./day05-random-words-player.py)
 
-### Lab Work
+### PE1- Section 2-2.2 (2026-07-04)
+- Restart from Cisco Python Essential 1
 - [Python Literals — Strings](./LAB-Python-literals-strings.py): Practice with escape characters, quotes, scientific notation, and boolean comparisons
+
+### PE1- Section 2-2.3 (2026-07-05)
+####Chapter Summary: Python Operators
+
+1. An expression is a combination of values (or variables, operators, function calls) which evaluates to a certain value, e.g., `1 + 2`.
+2. Operators are special symbols or keywords that operate on values and perform mathematical operations.
+Example: The `*` operator multiplies two values: `x * y`.
+3. Common arithmetic operators in Python:
+- `+` : addition
+- `-` : subtraction
+- `*` : multiplication
+- `/` : classic division, always returns a float
+- `%` : modulus, returns remainder of division, e.g., `5 % 2 = 1`
+- `**` : exponentiation, left operand raised to the power of right operand, e.g., `2 ** 3 = 8`
+- `//` : floor / integer division, rounds the result down to the nearest whole number, e.g., `3 // 2.0 = 1.0`
+4. Unary operator: operates on only one operand, e.g., `-1`, `+3`.
+5. Binary operator: operates on two operands, e.g., `4 + 5`, `12 % 5`.
+6. Operator priority hierarchy (from highest to lowest):
+- `**` (exponentiation)
+- Unary `+` / unary `-`
+   > Note: Unary operators on the right of `**` bind tighter: `4 ** -1 = 0.25`
+- `*`, `/`, `%`
+- Binary `+`, binary `-` (lowest priority)
+7. Parenthesized subexpressions calculate first, e.g., `15 - 1 * (5 * (1 + 2)) = 0`.
+8. The exponentiation operator `**` uses right associativity:
+Example: `2 ** 2 ** 3 = 2 ** (2 ** 3) = 256`
+- [Operators - data manipulation tools] (./Operators-data-manipulation-tools.py)
 
 ---
 
