@@ -48,6 +48,15 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Why does / always return float?
 - [Operators - data manipulation tools](./Operators-data-manipulation-tools.py)
 
+### PE1- Section 2-2.4 (2026-07-06)
+#### What I learned: Variables — Creating, Naming, and Using
+- Learned how to create variables and assign values
+- Used `print()` to output variables, including combining multiple variables with commas
+- Combined text and variables using the `+` operator (string concatenation)
+- **Insight:** The textbook says you can use `print()` with `+` to combine text and variables — and it works perfectly when both sides are strings. But the moment you try to combine a number with a string (e.g., `print("Score: " + 95)`), Python throws a `TypeError`. This is because the `+` operator in Python is type-sensitive: it performs arithmetic on numbers (int/float) and concatenation on strings (str), but it cannot implicitly convert between the two. You must explicitly convert numbers to strings using `str()` first, e.g., `print("Score: " + str(95))`. This is a fundamental difference from languages like JavaScript, where `+` auto-coerces types.
+- [Variables - create, use, name](./variables-create-use-name.py)
+
+
 ---
 
 ## Goals
