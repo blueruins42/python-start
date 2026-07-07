@@ -56,6 +56,13 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - **Insight:** The textbook says you can use `print()` with `+` to combine text and variables — and it works perfectly when both sides are strings. But the moment you try to combine a number with a string (e.g., `print("Score: " + 95)`), Python throws a `TypeError`. This is because the `+` operator in Python is type-sensitive: it performs arithmetic on numbers (int/float) and concatenation on strings (str), but it cannot implicitly convert between the two. You must explicitly convert numbers to strings using `str()` first, e.g., `print("Score: " + str(95))`. This is a fundamental difference from languages like JavaScript, where `+` auto-coerces types.
 - [Variables - create, use, name](./variables-create-use-name.py)
 
+### PE1- Section 2-2.48 (2026-07-07)
+#### Mistakes I Made
+- Misunderstood the evaluation order of `/=`.
+#### What I Learned
+- Compound assignment is just shorthand for a normal assignment.
+- Always expand `+=`, `-=`, `*=`, `/=` mentally before evaluating an expression.
+- [variables-Operators-expressions](./variables-Operators-expressions.py)
 
 ---
 
