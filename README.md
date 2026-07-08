@@ -64,6 +64,15 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Always expand `+=`, `-=`, `*=`, `/=` mentally before evaluating an expression.
 - [variables-Operators-expressions](./variables-Operators-expressions.py)
 
+### PE1- Section 2-2.6 (2026-07-08)
+#### What I Learned
+- input() function
+#### Key takeaways:
+- input() always pauses execution until the user presses Enter.
+- The prompt argument is only a message for the user, not the input value itself.
+- input() always returns a string, so numeric calculations require type conversion (e.g., int() or float()).
+- [interact-with-user](./interact-with-user.py)
+  
 ---
 
 ## Goals
