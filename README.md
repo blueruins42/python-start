@@ -72,7 +72,16 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - The prompt argument is only a message for the user, not the input value itself.
 - input() always returns a string, so numeric calculations require type conversion (e.g., int() or float()).
 - [interact-with-user](./interact-with-user.py)
-  
+
+### PE1- Section 3-3.17 (2026-07-09)
+#### What I Learned
+- Questions and Answers: True/False
+- Comparison:equality operator
+- Conditional Exection:if/else statements
+#### Note:
+- if there is more than one instruction in the indented part, the indentation should be the same in all lines;
+- even though it may look the same if you use tabs mixed with spaces, it's important to make all indentations exactly the same – Python 3 does not allow the mixing of spaces and tabs for indentation.
+- [if-else-statement](./if-else-statement.py)
 ---
 
 ## Goals
