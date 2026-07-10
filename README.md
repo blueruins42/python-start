@@ -86,6 +86,11 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 ### PE1- Section 3-3.19 (2026-07-10)
 #### What confused me today
 - how pseudocode is presented to help form a basic, initial computing mindset.
+- An example: if number == -1: exit() —— -1 is not treated as normal data. It acts as a signal that tells the program the user has finished providing input.This concept is known as a sentinel value: a special value used to control the flow of a program.
+- Programs need explicit rules to start and stop.
+- Repetition requires structured control logic.
+- User inputs can represent either data or commands.
+- Good software design considers not only whether a system works, but also how humans interact with it.
 #### What I Learned
 - Conditional Exection:elif statement
 - [Pseudocode](./Pseudocode.py)
