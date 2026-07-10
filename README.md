@@ -82,6 +82,13 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - if there is more than one instruction in the indented part, the indentation should be the same in all lines;
 - even though it may look the same if you use tabs mixed with spaces, it's important to make all indentations exactly the same – Python 3 does not allow the mixing of spaces and tabs for indentation.
 - [if-else-statement](./if-else-statement.py)
+
+### PE1- Section 3-3.19 (2026-07-10)
+#### What confused me today
+- how pseudocode is presented to help form a basic, initial computing mindset.
+#### What I Learned
+- Conditional Exection:elif statement
+- [Pseudocode](./Pseudocode.py)
 ---
 
 ## Goals
