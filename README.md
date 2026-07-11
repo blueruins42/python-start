@@ -73,7 +73,7 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - input() always returns a string, so numeric calculations require type conversion (e.g., int() or float()).
 - [interact-with-user](./interact-with-user.py)
 
-### PE1- Section 3-3.17 (2026-07-09)
+### PE1- Section 3-3.1.7 (2026-07-09)
 #### What I Learned
 - Questions and Answers: True/False
 - Comparison:equality operator
@@ -83,7 +83,7 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - even though it may look the same if you use tabs mixed with spaces, it's important to make all indentations exactly the same – Python 3 does not allow the mixing of spaces and tabs for indentation.
 - [if-else-statement](./if-else-statement.py)
 
-### PE1- Section 3-3.19 (2026-07-10)
+### PE1- Section 3-3.1.9 (2026-07-10)
 #### What confused me today
 - how pseudocode is presented to help form a basic, initial computing mindset.
 - An example: if number == -1: exit() —— -1 is not treated as normal data. It acts as a signal that tells the program the user has finished providing input.This concept is known as a sentinel value: a special value used to control the flow of a program.
@@ -94,6 +94,15 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 #### What I Learned
 - Conditional Exection:elif statement
 - [Pseudocode](./Pseudocode.py)
+
+### PE1- Section 3-3.1.14 (2026-07-11)
+#### Note:
+- Each if is tested separately.
+- operators >= / <= : either > or = fulfill, it is True; otherwise, False
+- In order to make code readable, it's essential to consider writing pre-conditional code beforehand.
+- if-elif-else: each condition is incompatible, executing only one branch.
+- [review-if-elif-else](./review-if-elif-else.py)
+  
 ---
 
 ## Goals
