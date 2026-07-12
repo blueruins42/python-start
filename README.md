@@ -102,7 +102,10 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - In order to make code readable, it's essential to consider writing pre-conditional code beforehand.
 - if-elif-else: each condition is incompatible, executing only one branch.
 - [review-if-elif-else](./review-if-elif-else.py)
-  
+
+### PE1- Section 3-3.2 (2026-07-12)
+- [weekly-review-conditional-exectuion](./weekly-review-conditional-exectuion.py)
+- [while-for-loop](./while-for-loop.py)
 ---
 
 ## Goals
