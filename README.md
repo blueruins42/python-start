@@ -106,6 +106,9 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 ### PE1- Section 3-3.2 (2026-07-12)
 - [weekly-review-conditional-exectuion](./weekly-review-conditional-exectuion.py)
 - [while-for-loop](./while-for-loop.py)
+
+### PE1- Section 3.2.17 (2026-07-13)
+- [loop-while-creak-continue](./loop-while-break-continue.py)
 ---
 
 ## Goals
