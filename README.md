@@ -109,6 +109,12 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 
 ### PE1- Section 3.2.17 (2026-07-13)
 - [loop-while-creak-continue](./loop-while-break-continue.py)
+
+### PE1- Section 3.4 (2026-07-16)
+#### What confused me today
+- messed up keywords(i.e. del, for, while, if, while), build-in funtion(i.e. len(),print()), method(i.e. append(), insert(),upper())
+- I mistook method as build-in function, and the console showed me "AttributeError: 'NoneType' object has no attribute 'append'" error and returned "None".
+- [list](./list.py)
 ---
 
 ## Goals
