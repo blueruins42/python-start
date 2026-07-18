@@ -115,6 +115,16 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - messed up keywords(i.e. del, for, while, if, while), build-in funtion(i.e. len(),print()), method(i.e. append(), insert(),upper())
 - I mistook method as build-in function, and the console showed me "AttributeError: 'NoneType' object has no attribute 'append'" error and returned "None".
 - [list](./list.py)
+
+### PE1- Section 3.7 (2026-07-18)
+#### What I learned
+1. Structural Construction (Bottom-Up)  
+- Atomic-first approach: Begin with the finest granularity (seconds/house numbers) and compose upward  
+- Physical alignment: Matches memory locality (e.g., LSM-tree SSTables store recent writes in smaller, faster-access blocks)  
+2. Performance Implications  
+- Write Optimization: Right-to-left creation minimizes restructuring
+- Read Efficiency: Left-to-right traversal 
+-[list-slice-operators](./list-slice-operators.py)
 ---
 
 ## Goals
