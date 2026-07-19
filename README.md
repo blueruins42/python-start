@@ -125,6 +125,12 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Write Optimization: Right-to-left creation minimizes restructuring
 - Read Efficiency: Left-to-right traversal 
 -[list-slice-operators](./list-slice-operators.py)
+
+### PE1- Section 4.2 (2026-07-19)
+# the mistake I made
+- UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
+- AttributeError: 'int' object has no attribute 'append'
+- [functions](./functions.py)
 ---
 
 ## Goals
