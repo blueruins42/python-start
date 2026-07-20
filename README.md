@@ -131,6 +131,11 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
 - AttributeError: 'int' object has no attribute 'append'
 - [functions](./functions.py)
+
+### PE1- Section 4.3.3 (2026-07-20)
+# What I noticed
+- It is interesting to dive deeper into not just about syntax itself, but the logic within the precise position makes a big difference
+- [return](./return.py)
 ---
 
 ## Goals
