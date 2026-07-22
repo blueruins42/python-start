@@ -136,6 +136,13 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 # What I noticed
 - It is interesting to dive deeper into not just about syntax itself, but the logic within the precise position makes a big difference
 - [return](./return.py)
+
+### PE1- Section 4.4 (2026-07-22)
+# What I messed up
+- if the argument is a list, then changing the value of the corresponding parameter doesn't affect the list (remember: variables containing lists are stored in a different way than scalars)
+- if you change a list identified by the parameter (note: the list, not the parameter!), the list will reflect the change.
+- global keyword only takes effect once the funciton invokes, however, when outside variable are reassigned after the function finished invoking and returning the results, it doesn't work afterwards.
+- [scope.py](./scope.py)
 ---
 
 ## Goals
