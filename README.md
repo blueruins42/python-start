@@ -143,6 +143,14 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - if you change a list identified by the parameter (note: the list, not the parameter!), the list will reflect the change.
 - global keyword only takes effect once the funciton invokes, however, when outside variable are reassigned after the function finished invoking and returning the results, it doesn't work afterwards.
 - [scope.py](./scope.py)
+
+### PE1- Section 4.5 (2026-07-23)
+# What I noticed
+- I still cannot master loop interation along with if not;
+- def function invokes as well as recursion when return results
+- [multi_parameter_functions](./multi_parameter_function.py)
+- [recursive_funciton](./recursive_function.py)
+
 ---
 
 ## Goals
