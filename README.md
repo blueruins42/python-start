@@ -127,30 +127,38 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 -[list-slice-operators](./list-slice-operators.py)
 
 ### PE1- Section 4.2 (2026-07-19)
-# the mistake I made
+#### the mistake I made
 - UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
 - AttributeError: 'int' object has no attribute 'append'
 - [functions](./functions.py)
 
 ### PE1- Section 4.3.3 (2026-07-20)
-# What I noticed
+#### What I noticed
 - It is interesting to dive deeper into not just about syntax itself, but the logic within the precise position makes a big difference
 - [return](./return.py)
 
 ### PE1- Section 4.4 (2026-07-22)
-# What I messed up
+#### What I messed up
 - if the argument is a list, then changing the value of the corresponding parameter doesn't affect the list (remember: variables containing lists are stored in a different way than scalars)
 - if you change a list identified by the parameter (note: the list, not the parameter!), the list will reflect the change.
 - global keyword only takes effect once the funciton invokes, however, when outside variable are reassigned after the function finished invoking and returning the results, it doesn't work afterwards.
 - [scope.py](./scope.py)
 
 ### PE1- Section 4.5 (2026-07-23)
-# What I noticed
+#### What I noticed
 - I still cannot master loop interation along with if not;
 - def function invokes as well as recursion when return results
 - [multi_parameter_functions](./multi_parameter_function.py)
 - [recursive_funciton](./recursive_function.py)
 
+### PE1- Section 4.7 (2026-07-25)
+#### What I feel
+- Since python essential 1 is close to end, I am stil what I am when I started begining.
+- It is frustrated and I told myself, "I am not afraid of my Python code crashing; I am just learning how to fail forward."
+#### What I built
+- An portfolio for my master's application —— it is named an AI Trust layer
+- It is overwhelmed either. I told myself, "Despite the overwhelming cognitive friction, I decided to soldier on."
+- [tuple_dict](./tuple_dict.py)
 ---
 
 ## Goals
