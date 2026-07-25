@@ -158,6 +158,9 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 #### What I built
 - An portfolio for my master's application —— it is named an AI Trust layer
 - It is overwhelmed either. I told myself, "Despite the overwhelming cognitive friction, I decided to soldier on."
+#### What I learned
+- mutable type: list, dict, set  —— shared location
+- immutable type: int, float, str, tuple —— modified only when assigning a new value
 - [tuple_dict](./tuple_dict.py)
 ---
 
