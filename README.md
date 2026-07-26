@@ -151,7 +151,7 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - [multi_parameter_functions](./multi_parameter_function.py)
 - [recursive_funciton](./recursive_function.py)
 
-### PE1- Section 4.7 (2026-07-25)
+### PE1- Section 4.6 (2026-07-25)
 #### What I feel
 - Since python essential 1 is close to end, I am stil what I am when I started begining.
 - It is frustrated and I told myself, "I am not afraid of my Python code crashing; I am just learning how to fail forward."
@@ -162,6 +162,13 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - mutable type: list, dict, set  —— shared location
 - immutable type: int, float, str, tuple —— modified only when assigning a new value
 - [tuple_dict](./tuple_dict.py)
+
+### PE1- Section 4.7 (2026-07-26)
+#### What I learned
+- built-in exceptions：ZeroDivisionError，ValueError，TypeError，AttributeError，SyntaxError（It's a bad idea to handle this exception in your programs.）
+- Don't bury your head in the sand – ignoring errors won't make them disappear.
+- useful debugging technique:Rubber duck debugging
+- [exceptions](./exceptions.py)
 ---
 
 ## Goals
