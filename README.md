@@ -169,6 +169,15 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Don't bury your head in the sand – ignoring errors won't make them disappear.
 - useful debugging technique:Rubber duck debugging
 - [exceptions](./exceptions.py)
+
+### PE2- Section 1.1 (2026-07-28)
+#### Milestone
+- starting with Python Essential 2
+#### What I learned 
+- concept of modules and namespace
+- use 'as' keyword to alias which can not only shorten names but also to avoid name conflicts
+- do not recommend to use * to import all entities
+- [module_import](./module_import.py)
 ---
 
 ## Goals
