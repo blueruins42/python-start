@@ -178,6 +178,10 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - use 'as' keyword to alias which can not only shorten names but also to avoid name conflicts
 - do not recommend to use * to import all entities
 - [module_import](./module_import.py)
+
+### PE2- Section 1.2&1.3 (2026-07-30)
+- modules group a list of functions, while packages group a list of modules
+- Create my first module ( test.py, tempt.py)
 ---
 
 ## Goals
