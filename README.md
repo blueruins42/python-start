@@ -182,6 +182,13 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 ### PE2- Section 1.2&1.3 (2026-07-30)
 - modules group a list of functions, while packages group a list of modules
 - Create my first module ( test.py, tempt.py)
+
+### PE2- Section 2.3.4 (2026-08-05)
+#### What I have done 
+- Being absence for a few days and I actually finished my first prototype called AI trust layer
+- Plus, I began to learn HCAI along the way including pandas
+- today I came back to continue learning some basic syntax
+- [strings_strings_methods](./strings_strings_methods.py)
 ---
 
 ## Goals
