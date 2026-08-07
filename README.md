@@ -189,6 +189,12 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - Plus, I began to learn HCAI along the way including pandas
 - today I came back to continue learning some basic syntax
 - [strings_strings_methods](./strings_strings_methods.py)
+
+### PE2- Section 2.3.25 (2026-08-07)
+#### What I learned 
+- various string methods
+- note: strings are immutable, so methods are used to created a new copy and return results, the source strings remain unchanged.
+- [string_methods_2](./string_methods_2.py)
 ---
 
 ## Goals
