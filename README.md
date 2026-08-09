@@ -196,6 +196,23 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 - note: strings are immutable, so methods are used to created a new copy and return results, the source strings remain untouched.
 - a function named sorted(), creating a new, sorted list; a method named sort(), which sorts the list in situ
 - [string_methods_2](./string_methods_2.py)
+
+### PE2- Section 2.8 (2026-08-09)
+#### What I learned 
+- useful exceptions which can protect your code from bad accidents
+- abstract built-in Python exceptions are:
+ArithmeticError,
+BaseException,
+LookupError.
+- concrete built-in Python exceptions are:
+AssertionError,
+ImportError,
+IndexError,
+KeyboardInterrupt,
+KeyError,
+MemoryError,
+OverflowError.
+- [Built-in exceptions](./Built-in exceptions.py)
 ---
 
 ## Goals
