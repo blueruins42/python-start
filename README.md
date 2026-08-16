@@ -201,18 +201,18 @@ As a humanities student, I'm not aiming to become a hardcore programmer. My goal
 #### What I learned 
 - useful exceptions which can protect your code from bad accidents
 - abstract built-in Python exceptions are:
-ArithmeticError,
-BaseException,
-LookupError.
+ArithmeticError,BaseException,LookupError.
 - concrete built-in Python exceptions are:
-AssertionError,
-ImportError,
-IndexError,
-KeyboardInterrupt,
-KeyError,
-MemoryError,
-OverflowError.
+AssertionError,ImportError,IndexError,KeyboardInterrupt,KeyError,MemoryError,OverflowError.
 - [Built-in exceptions](./Built-in exceptions.py)
+
+### PE2- Section 3.1&3.2 (2026-08-16)
+#### Note：
+- I got hurt in a traffic accident and delayed my learning progress
+- Now still staying recovering and came back to continue learning OOP
+#### What I learned 
+- Concepts: class, object, stack
+
 ---
 
 ## Goals
