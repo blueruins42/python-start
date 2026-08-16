@@ -212,7 +212,9 @@ AssertionError,ImportError,IndexError,KeyboardInterrupt,KeyError,MemoryError,Ove
 - Now still staying recovering and came back to continue learning OOP
 #### What I learned 
 - Concepts: class, object, stack
-
+#### What confused me
+- I still use procedural mindset to understand how object-oriented programming operates
+- [stacks](./stacks.py)
 ---
 
 ## Goals
